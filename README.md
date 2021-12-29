@@ -1,2 +1,1 @@
-# Music-Generator---RNN
-Build music generator with deep learning
+Our music generation is formulated as predicting next-note prediction problem
